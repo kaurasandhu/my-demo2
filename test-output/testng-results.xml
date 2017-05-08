@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[hello]]>
+      <![CDATA[bye]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="129" started-at="2017-05-08T11:35:48Z" finished-at="2017-05-08T11:35:48Z">
+  <suite name="Default suite" duration-ms="140" started-at="2017-05-08T11:57:52Z" finished-at="2017-05-08T11:57:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="129" started-at="2017-05-08T11:35:48Z" finished-at="2017-05-08T11:35:48Z">
-      <class name="p3.c1">
-        <test-method status="PASS" signature="method2()[pri:0, instance:p3.c1@3c09711b]" name="method2" duration-ms="48" started-at="2017-05-08T17:05:48Z" finished-at="2017-05-08T17:05:48Z">
+    <test name="Default test" duration-ms="140" started-at="2017-05-08T11:57:52Z" finished-at="2017-05-08T11:57:52Z">
+      <class name="p3.c2">
+        <test-method status="PASS" signature="method3()[pri:0, instance:p3.c2@3c09711b]" name="method3" duration-ms="47" started-at="2017-05-08T17:27:52Z" finished-at="2017-05-08T17:27:52Z">
           <reporter-output>
             <line>
-              <![CDATA[hello]]>
+              <![CDATA[bye]]>
             </line>
           </reporter-output>
-        </test-method> <!-- method2 -->
-      </class> <!-- p3.c1 -->
+        </test-method> <!-- method3 -->
+      </class> <!-- p3.c2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
